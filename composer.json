@@ -1,0 +1,14 @@
+{
+    "name": "bdlogicalerror/phoxcart",
+    "description": "Shoping Cart package",
+    "type": "project",
+    "license": "GPL3.0",
+    "authors": [
+        {
+            "name": "bdlogicalerror",
+            "email": "bdlogicalerror@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
